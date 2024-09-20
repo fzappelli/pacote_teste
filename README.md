@@ -1,0 +1,1 @@
+Este é um pacote utilitário Python que oferece funções para manipulação de strings, listas e datas.
